@@ -72,11 +72,6 @@ Final equity
 
 Comparison across multiple years (2021, 2022, 2024; 2023 excluded due to anomalous results)
 
-Key Results
-Year	PnL ($)	Sharpe (%)	Max Drawdown ($)	Final Equity ($)
-2021	KF: 6,719.51 / OLS: 21,147.27	KF: 1.80 / OLS: 1.15	KF: 22,394.43 / OLS: 25,554.41	KF: 204,493.03 / OLS: 153,026.02
-2022	KF: 7,944.44 / OLS: 15,725.08	KF: 1.81 / OLS: 0.74	KF: 19,476.15 / OLS: 82,074.00	KF: 198,390.11 / OLS: 198,390.11
-2024	KF: 2,465.95 / OLS: 16,430.41	KF: 2.41 / OLS: 1.36	KF: 16,126.85 / OLS: 19,460.88	KF: 243,111.52 / OLS: 165,331.75
 
 Summary:
 
